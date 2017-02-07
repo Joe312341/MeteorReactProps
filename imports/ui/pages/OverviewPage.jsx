@@ -31,15 +31,5 @@ class OverviewPage extends React.Component {
     )
   }
 }
-//
-// OverviewPage.propTypes = {
-//   authors: React.PropTypes.array,
-//   books: React.PropTypes.array,
-//   authorId: React.PropTypes.object,
-//   loadingAuthors: React.PropTypes.bool,
-//   authorsExists: React.PropTypes.bool,
-//   loadingBooks: React.PropTypes.bool,
-//   booksExists: React.PropTypes.bool,
-// };
 
 export default OverviewPage;
